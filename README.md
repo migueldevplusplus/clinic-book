@@ -166,8 +166,8 @@ Roles come from the JWT and are checked with `@PreAuthorize`. Ownership is verif
 ### Option A — everything in Docker
 
 ```bash
-git clone https://github.com/migueldevplusplus/clinic-book-app.git
-cd clinic-book-app
+git clone https://github.com/migueldevplusplus/clinic-book.git
+cd clinic-book
 docker compose up --build
 ```
 
